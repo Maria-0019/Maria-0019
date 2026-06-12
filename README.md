@@ -9,7 +9,7 @@
    . JavaScript
    
  💻 Language:
-    . C
+    . C | C++
 
   
    
